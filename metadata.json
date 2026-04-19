@@ -1,0 +1,6 @@
+{
+  "name": "Smart Study Assistant",
+  "description": "An AI-powered study companion that uses ML-based mastery tracking and Gemini-driven personalized tutoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
